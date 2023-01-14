@@ -6,7 +6,7 @@
 
 ## **Arquivos disponíveis**
 
-* [X]  Fluxograma de trabalho realizado com a ferramenta do lucidChart
+* [X]  Fluxograma de trabalho realizado com a ferramenta do lucidChart (fluxograma em cacata e outro no modelo ágil)
 * [X]  MindMap com o fluxo de testes realizado com a ferramenta lucidChart
 * [X]  Imagens do projeto no Jira
 * [X]  Duas user histories com documentação criada a partir do próprio Jira
